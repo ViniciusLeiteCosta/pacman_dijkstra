@@ -11,5 +11,3 @@ Pacman simulator (ROS based):
 https://github.com/carlosquinterop/ros-pacman
 
 https://github.com/carlosquinterop/pacman-controller
-
-[Dijkstra Pacman](https://github.com/cstopics/pacman_dijkstra){:target="blank"}
