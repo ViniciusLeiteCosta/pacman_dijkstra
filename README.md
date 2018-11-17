@@ -11,3 +11,5 @@ Pacman simulator (ROS based):
 https://github.com/carlosquinterop/ros-pacman
 
 https://github.com/carlosquinterop/pacman-controller
+
+Do not forget to visit our web page: https://cstopics.github.io/cstopics/
